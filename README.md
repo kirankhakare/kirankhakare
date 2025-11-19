@@ -6,10 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&height=45&lines=Frontend+Developer;React+JS+Developer;React+Native+Developer;Next+JS+Developer;Angular+Developer;Node+JS+Backend+Developer;Building+Modern+%26+Scalable+Web+Apps" />
 </p>
----
+
 ## Live Portfolio :  
 👉 [https://portfolio-create-in-react-js-2jak.vercel.app/](https://portfolio-create-in-react-js-2jak.vercel.app/)
----
+
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
 - 🌱 Learning **Advanced Java, React Native & RPA in Python**
@@ -50,7 +50,6 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-6736FF?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
-
 ## ⚙️ **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -61,9 +60,3 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
----
-# 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph-mu.vercel.app/graph?username=kiran-khakare&theme=react-dark" />
-</p>
----
