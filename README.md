@@ -4,17 +4,12 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Java+Full+Stack+Developer;React+%7C+Angular+%7C+Node.js;Spring+Boot+%7C+MySQL+%7C+MongoDB;Building+Fast+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&height=45&lines=Frontend+Developer;React+JS+Developer;React+Native+Developer;Next+JS+Developer;Angular+Developer;Node+JS+Backend+Developer;Building+Modern+%26+Scalable+Web+Apps" />
 </p>
-
 ---
-
-## 🚀 Portfolio  
-🔗 **Live Portfolio:**  
+## Live Portfolio :  
 👉 [https://portfolio-create-in-react-js-2jak.vercel.app/](https://portfolio-create-in-react-js-2jak.vercel.app/)
-
 ---
-
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
 - 🌱 Learning **Advanced Java, React Native & RPA in Python**
@@ -22,15 +17,7 @@
 - 🎓 BE in **Information Technology (CGPA: 9.36)**
 - 🎯 Goal: Become a **Skilled Software Developer**
 - 🌍 Based in **Pune, India**
-
 ---
-
-## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiran-khakare)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankhakare111@gmail.com)
-
----
-
 # 💻 Tech Stack  
 
 ## 🎨 **Frontend**
@@ -74,27 +61,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
-
-# 📊 GitHub Stats & Activity  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kiran-khakare&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kiran-khakare&theme=radical" />
-</p>
-
 ---
-
----
-
-# 📈 Contribution Graph  
+# 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiran-khakare&theme=react-dark" />
+  <img src="https://github-readme-activity-graph-mu.vercel.app/graph?username=kiran-khakare&theme=react-dark" />
 </p>
-
 ---
-
-# 👁‍🗨 Profile Visitors  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kiran-khakare&color=blueviolet&style=flat-square" />
-</p>
