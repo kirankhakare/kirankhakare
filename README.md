@@ -11,8 +11,8 @@
 👉 [https://kiran-khakare.vercel.app/)
 
 ## 👨‍💻 About Me  
-- I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
-- Learning **Advanced Java, React Native & RPA in Python**
+- I’m currently working on **Full Stack Projects using React, Node, Express, MongoDB**
+- Learning **Advanced Java, React Native**
 - Freelancing experience: **Real-time Client Projects**
 - BE in **Information Technology (CGPA: 9.36)**
 - Goal: Become a **Skilled Software Developer**
