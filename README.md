@@ -11,16 +11,16 @@
 👉 [https://kiran-khakare.vercel.app/)
 
 ## 👨‍💻 About Me  
-- 🔭 I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
-- 🌱 Learning **Advanced Java, React Native & RPA in Python**
-- 💼 Freelancing experience: **Real-time Client Projects**
-- 🎓 BE in **Information Technology (CGPA: 9.36)**
-- 🎯 Goal: Become a **Skilled Software Developer**
-- 🌍 Based in **Pune, India**
+- I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
+- Learning **Advanced Java, React Native & RPA in Python**
+- Freelancing experience: **Real-time Client Projects**
+- BE in **Information Technology (CGPA: 9.36)**
+- Goal: Become a **Skilled Software Developer**
+- Based in **Pune, India**
 ---
 # 💻 Tech Stack  
 
-## 🎨 **Frontend**
+## **Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,7 +32,7 @@
 
 ---
 
-## 🛠️ **Backend**
+## **Backend**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-## 🌐 **DevOps & Hosting**
+## **DevOps & Hosting**
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -50,7 +50,7 @@
 ![Hostinger](https://img.shields.io/badge/Hostinger-6736FF?style=for-the-badge&logo=hostinger&logoColor=white)
 
 ---
-## ⚙️ **Tools**
+## **Tools**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
