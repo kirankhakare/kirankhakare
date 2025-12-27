@@ -8,7 +8,7 @@
 </p>
 
 ## Live Portfolio :  
-👉 [https://portfolio-create-in-react-js-2jak.vercel.app/](https://portfolio-create-in-react-js-2jak.vercel.app/)
+👉 [https://kiran-khakare.vercel.app/)
 
 ## 👨‍💻 About Me  
 - 🔭 I’m currently working on **Full Stack Projects using React, Node, Express, MySQL**
