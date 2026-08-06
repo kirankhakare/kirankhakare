@@ -4,7 +4,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&height=45&lines=Frontend+Developer;React+JS+Developer;React+Native+Developer;Next+JS+Developer;Angular+Developer;Node+JS+Backend+Developer;Building+Modern+%26+Scalable+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=FF6EC7&center=true&vCenter=true&width=600&height=45&lines=FullStack+Developer;React+JS+Developer;React+Native+Developer;Next+JS+Developer;Angular+Developer;Node+JS+Backend+Developer;Building+Modern+%26+Scalable+Web+Apps" />
 </p>
 
 ## Live Portfolio :  
